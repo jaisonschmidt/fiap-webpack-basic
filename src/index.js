@@ -1,4 +1,5 @@
 import _ from 'lodash';
+import './styles.scss'; // Importa o arquivo SCSS
 
 function component() {
   const element = document.createElement('div');
