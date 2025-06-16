@@ -1,3 +1,11 @@
+### Como iniciar este exercício
+
+Clique em **Copiar Exercício** e abra o link em uma nova aba.
+
+   <a id="copy-exercise" target="_blank" href="https://github.com/new?template_name=fiap-webpack-basic&template_owner=jaisonschmidt&name=fiap-webpack-projectname&owner=%40me&visibility=public">
+      <img src="https://img.shields.io/badge/📠_Copiar_Exercício-008000" height="25pt"/>
+   </a>
+   
 # Getting Started
 
 Install some dependencies
